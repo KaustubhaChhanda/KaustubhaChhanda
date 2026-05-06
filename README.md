@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Engineering Student. I do Full Stack Development (MERN/MEAN).
+I am a Computer Science Undergrad and I do Full Stack Development (MERN/MEAN).
 
 
 ## 🌐 Socials:
